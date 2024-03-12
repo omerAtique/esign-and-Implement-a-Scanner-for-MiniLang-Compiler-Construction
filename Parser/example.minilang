@@ -1,0 +1,15 @@
+
+
+
+// Check conditions
+if (sum >= 30) {
+    print "Sum is greater than or equal to 30";
+} else {
+    print "Sum is less than 30";
+}
+
+// Update boolean variable
+isGreater = sum > 30;
+
+// Print the updated value
+print "Is sum greater than 30? " + isGreater;
